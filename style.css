@@ -1,0 +1,48 @@
+/*
+========================================================
+  © 2025-2026 Coffka.exe
+  Creative Coding Project
+
+  Please do not copy, steal, modify, or redistribute
+  this code without permission.
+
+  If you use or share any part of this code,
+  please give proper credit to Coffka.exe
+  and keep this copyright notice.
+
+  Please do not claim this work as your own.
+  Instagram: @coffka.exe
+  My server Discord: https://discord.gg/vSp7sQy7a
+========================================================
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#canvas-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+canvas {
+    display: block;
+    background-color: #000;
+}
