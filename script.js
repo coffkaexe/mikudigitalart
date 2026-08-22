@@ -12,7 +12,6 @@
 
   Please do not claim this work as your own.
   Instagram: @coffka.exe
-  My server Discord: https://discord.gg/vSp7sQy7a
 ========================================================
 */
 
